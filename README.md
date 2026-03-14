@@ -77,6 +77,10 @@ The goal is to make tradeoffs and uncertainty visible, not to be a full underwri
 
 Use **File → Export Results** to save JSON or CSV for further analysis.
 
+## Disclaimer
+
+This software is provided for **informational and educational purposes only** and does **not** constitute financial, investment, legal, or tax advice. The simulations and results produced by this tool are based on simplified models and assumptions that may not reflect your actual financial situation. You should consult a qualified financial advisor before making any home-buying or other financial decisions.
+
 ## License
 
-Add a license file if you plan to distribute the app.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
